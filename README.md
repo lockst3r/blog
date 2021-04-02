@@ -1,7 +1,7 @@
 ## Blog
 ------------------
 
-To launch the application click on the link ***[Blog](https://youthful-wiles-0ca6d4.netlify.app/)***
+To launch the application click on the link [https://wonderful-clarke-5d366f.netlify.app/](https://wonderful-clarke-5d366f.netlify.app/)
 
 ## Getting Started
 
